@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "product": {
+        "productID": "P001",
+        "name": "Laptop",
+        "price": 1000,
+        "category": "Electronics"
+      },
+      "quantity": 1
+    },
+    {
+      "product": {
+        "productID": "P003",
+        "name": "T-Shirt",
+        "price": 20,
+        "category": "Fashion"
+      },
+      "quantity": 2
+    }
+  ],
+  "discounts": []
+}
